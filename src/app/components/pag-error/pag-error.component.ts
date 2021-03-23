@@ -38,8 +38,7 @@ export class PagErrorComponent implements OnInit {
       "enable": false
     },
     "fullScreen": {
-      "enable": true,
-      "zIndex": 1
+      "enable": true
     },
     "detectRetina": true,
     "fpsLimit": 60,
